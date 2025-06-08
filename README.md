@@ -36,6 +36,32 @@ This project uses Docker to ensure a clean and consistent development environmen
 
 ### Run with Docker Compose:
 
-```bash
 # From the root directory
 docker-compose up --build
+
+This will:
+
+Start the FastAPI backend on http://localhost:8000
+
+Start the React frontend on http://localhost:3000
+
+🖼️ Screenshots / Mockups
+Coming soon – will include UI wireframes, product filtering demo, and admin dashboard preview.
+
+📈 Status
+📍 Concept approved by stakeholders
+
+🛠️ MVP development in progress
+
+🧠 Origin
+This project was born out of a business case study involving a real-world challenge: helping a small family-owned t-shirt store grow through digital transformation. The solution includes both technical implementation and stakeholder engagement.
+
+📄 License
+MIT License – free to use and modify for learning and portfolio purposes.
+
+Developed by Adrian Posada | ACBI | 2025
+
+yaml
+Copiar
+Editar
+
