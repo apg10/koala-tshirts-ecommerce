@@ -30,9 +30,12 @@ The project was developed as part of the BSBCRT512 unit (*Originate and Develop 
 ✅ YouTube video integration + QR poster strategy  
 ✅ SEO-ready URLs and metadata
 
-## 🖼️ Screenshots / Mockups
+## 🐳 Docker Support
 
-> _Coming soon – will include UI wireframes, product filtering demo, and admin dashboard preview._
+This project uses Docker to ensure a clean and consistent development environment.
 
-## 🗂️ Project Structure
+### Run with Docker Compose:
 
+```bash
+# From the root directory
+docker-compose up --build
